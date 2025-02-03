@@ -6,7 +6,7 @@
 </a>
   </p>  
 <h1 align="center">
-Freedorm firmware
+Freedorm Open Source
 </h1>
 <p align="center">
 推门既入，智慧如影随形
