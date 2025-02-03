@@ -1,12 +1,16 @@
-## Hi there 👋
+## 你好 👋
 
-<!--
+Freedorm开源在这里
 
-**Here are some ideas to get you started:**
+## 项目简介
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+## 逆向工程
+关于门的逆向工程，门锁拆解部分详见[Freedorm的说明书](/TODO)，关于信号线的逆向工程详见[这篇文章](/reverse_engineering/README.md)。
+
+## 嵌入式固件
+
+## 嵌入式硬件
+
+## 小程序
+
+## 后端
