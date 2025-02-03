@@ -1,6 +1,22 @@
-## 你好 👋
 
-Freedorm开源在这里
+<div>
+<p align="center">
+<a href="https://freedorm.net" >
+  <img width="190" src="readme/freedorm_mini_logo.png" alt="Freedorm Logo by Sun">
+</a>
+  </p>  
+<h1 align="center">
+Freedorm firmware
+</h1>
+<p align="center">
+推门既入，智慧如影随形
+</p>
+<p align="center">
+用我们的努力，让南科大的住宿体验更便捷、更温暖
+</p>
+</div>
+
+_This page is not available in [English](README.en.md) yet._ 
 
 ## 项目简介
 
